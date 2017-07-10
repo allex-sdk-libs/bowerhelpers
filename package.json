@@ -1,0 +1,31 @@
+{
+  "name": "allex_bowerhelperssdklib",
+  "version": "1.0.0",
+  "description": "AllexJS sdk lib for bower management",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdklibs/bowerhelpers.git"
+  },
+  "dependencies": {
+    "bower": "1.x",
+    "allex_nodehelpersserverruntimelib": "1.x",
+    "allex_arrayoperationslowlevellib": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "bower",
+    "helpers",
+    "sdk",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdklibs/bowerhelpers/issues"
+  },
+  "homepage": "https://github.com/sdklibs/bowerhelpers#readme"
+}
